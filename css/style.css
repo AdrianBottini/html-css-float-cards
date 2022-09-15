@@ -1,0 +1,44 @@
+* {
+    box-sizing: border-box;
+    font-family: 'Kalam', cursive;
+}
+
+h1 {
+    color: violet;
+    font-size: 60px;
+    text-align: center;
+}
+
+.didascalia {
+    text-align: center;
+    color: black;
+}
+
+.container {
+    max-width: 900px;
+    margin-right: auto;
+    margin-left: auto;
+    background-color: black;
+}
+
+h4 {
+    color: white;
+    text-align: left;
+}
+
+p {
+    color: gainsboro;
+    text-align: left;
+}
+
+img {
+    width: 90px;
+    float: left;
+    margin-right: 1.5rem;
+}
+.colon {
+    float: left;
+    background-color: black;
+    width: calc(33.3% - 2rem);
+    margin: 1rem;
+}
