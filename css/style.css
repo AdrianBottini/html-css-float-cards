@@ -13,8 +13,11 @@ h1 {
 }
 
 .didascalia {
+    margin: 0 auto;
+    max-width: 900px;
     text-align: center;
     color: black;
+    background-color: white;
 }
 
 .container {
